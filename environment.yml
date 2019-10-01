@@ -7,7 +7,6 @@ dependencies:
   - certifi
   - cycler
   - freetype
-  - icc_rt
   - icu
   - intel-openmp
   - joblib
@@ -40,8 +39,6 @@ dependencies:
   - sqlite
   - statsmodels
   - tornado
-  - vc
   - wheel
-  - wincertstore
   - zlib
 prefix: C:\Users\s4d-asus-14\Anaconda3\envs\datascience
